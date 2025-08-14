@@ -1,15 +1,17 @@
 ========================================= <br>
-HCLOT package for manuscript titled "HCLOT: An effective hypergraph contrastive learning approach coupling with optimal transport to decipher
-complicated microbe-drug interaction relationships
-This is an implement of HCLOT on microbe-drug data. 
-Running environment：python 3.11 or later.
+HCLOT package for manuscript titled "HCLOT: An effective hypergraph contrastive learning approach coupling with optimal transport to decipher <br>
+complicated microbe-drug interaction relationships <br>
 
-HCLOT includes the main functions below:
+This is an implement of HCLOT on microbe-drug data. <br>
+Running environment：python 3.11 or later.  <br>
 
-"args.py": Parameters setting in the model.
-"model.py": model used in this manuscript.
-"dataset" folder: data file analyzed in this work.
-"utils" folder: functions and common tools related to HCLOT.
-"test.py": a step-by-step tutorial for implementing HCLOT.
+HCLOT includes the main functions below:  <br>
 
-Reference
+"args.py": Parameters setting in the model.  <br>
+"model.py": model used in this manuscript.  <br>
+"dataset" folder: data file analyzed in this work.  <br>
+"utils" folder: functions and common tools related to HCLOT.  <br>
+"requirements.txt": packages related to HCLOT implementing. <br>
+"test.py": a step-by-step tutorial for implementing HCLOT.  <br>
+
+Reference  <br>
