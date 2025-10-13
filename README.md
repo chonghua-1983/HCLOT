@@ -12,6 +12,6 @@ HCLOT includes the main functions below:  <br>
 "dataset" folder: data file analyzed in this work.  <br>
 "utils" folder: functions and common tools related to HCLOT.  <br>
 "requirements.txt": packages related to HCLOT implementing. <br>
-"test.py": a step-by-step tutorial for implementing HCLOT.  <br>
+
 
 Reference  <br>
