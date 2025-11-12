@@ -3,9 +3,9 @@ Title: HCLOT package for manuscript titled "HCLOT: An effective hypergraph contr
 <br>
 Description: This is an implement of HCLOT algorithm on microbe-drug data. <br><br>
 Requirements: Running environment：python 3.11 or later.  <br>
-              numpy: 1.26.2, pandas: 2.0.0, torch: 2.1.1, tqdm: 4.66.1, scikit-learn: 1.5.1. <br>
+              numpy: 1.26.2, pandas: 2.0.0, torch: 2.1.1, tqdm: 4.66.1, scikit-learn: 1.5.1. <br><br>
 
-Dataset: Two public microbe-drug datasets were used in this work. One is MDAD, the other is aBiofilm data. These two datasets are publicly availabe from the directory "datasets/MDAD" and "datasets/aBiofilm".
+Dataset: Two public microbe-drug datasets were used in this work. One is MDAD, the other is aBiofilm data. These two datasets are publicly availabe from the directory "datasets/MDAD" and "datasets/aBiofilm".<br><br>
 
 HCLOT includes the main functions below:  <br>
 "args.py": Parameters setting in the model.  <br>
@@ -13,7 +13,7 @@ HCLOT includes the main functions below:  <br>
 "dataset" folder: data file analyzed in this work.  <br>
 "utils" folder: functions and common tools related to HCLOT.  <br>
 "requirements.txt": packages related to HCLOT implementing. <br>
-"test.py": a step-by-step tutorial for implementing HCLOT. <br>
+"test.py": a step-by-step tutorial for implementing HCLOT. <br><br>
 
 
 Reference  <br>
