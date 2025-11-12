@@ -1,7 +1,7 @@
 ========================================= <br>
 Title: HCLOT package for manuscript titled "HCLOT: An effective hypergraph contrastive learning approach coupling with optimal transport to decipher complicated microbe-drug interaction relationships <br>
-
-Description: This is an implement of HCLOT algorithm on microbe-drug data. <br>
+<br>
+Description: This is an implement of HCLOT algorithm on microbe-drug data. <br><br>
 Requirements: Running environment：python 3.11 or later.  <br>
               numpy: 1.26.2, pandas: 2.0.0, torch: 2.1.1, tqdm: 4.66.1, scikit-learn: 1.5.1. <br>
 
