@@ -13,6 +13,7 @@ Packages: numpy: 1.26.2, pandas: 2.0.0, torch: 2.1.1, tqdm: 4.66.1, scikit-learn
 HCLOT includes the main functions below:  <br>
 <B> args.py </B> <br>
 This is the first step, which sets model parameters and some hyperparameters including GPU, the dimensions of hidden layers, dropout rate, learning rate, epochs and so on.  <br>
+
 <B> test.py </B> <br>
 This is the second step, which is a step-by-step tutorial for implementing HCLOT. This file contains data loading, preprocessing, normalization, hypergraph construction, HCOLT training and prediction.  <br>
 
