@@ -20,7 +20,8 @@ This is the second step, which is a step-by-step tutorial for implementing HCLOT
 This is the main code, where the deep learning model are designed, built and trained, and finally the results are returned.
 
 <B> utils </B> <br>
-This folder includes some common functions and tools related to HCLOT, such as dataset.py used to load data, distance.py used to compute distance between samples, metrics.py and evaluate.py that are used to assess the performance of algorithms.
+This folder includes some common functions and tools related to HCLOT, such as dataset.py used to load data, distance.py used to compute distance between samples, metrics.py and evaluate.py that are used to assess the performance of algorithms, tools.py includes the codes to construct hypergraph.<br>
+
 
 Please cite to our paper if you use any information from this repository
 
